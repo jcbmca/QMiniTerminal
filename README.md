@@ -1,0 +1,2 @@
+# QMiniTerminal
+Mini Terminal serie
